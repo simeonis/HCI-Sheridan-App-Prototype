@@ -32,4 +32,4 @@ School App for Sheridan College designed for students between the age of 18-30 a
 ## Links
 
 ### Figma: [Link](https://www.figma.com/proto/qP7It8jHtjdO9FLlWiDo8g/Sheridan-Course-App-%232?page-id=0%3A1&node-id=3%3A3&viewport=241%2C48%2C2.26&scaling=scale-down&starting-point-node-id=119%3A71) 
-### YouTube: [Link]()
+### YouTube: [Link](https://www.youtube.com/watch?v=9e0C91lsQmw)
