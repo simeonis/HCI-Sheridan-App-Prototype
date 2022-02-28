@@ -1,7 +1,7 @@
 # HCI Sheridan App Prototype
 
 ## 📃 Overview
-Human Computer Interaction Assignment#2 Prototype
+School App for Sheridan College designed for students between the age of 18-30 and 45+ (continuing education). This application aims to facilitate and unify any school related activities into one intuitive and useful hub. The pleasant UI/UX should encourage students to try out the app, and the features will intice them to routinely use it as it will benefit their studies. This app offers features such as, tracking courses/assignments, managing school calendar, accessing Sheridan's online library and many more.
 
 ## 🔥 Features
 - Dashboard
@@ -23,6 +23,11 @@ Human Computer Interaction Assignment#2 Prototype
 ![Navigation_Prototype](https://user-images.githubusercontent.com/56325172/155904751-f4f68e83-d54b-43d8-ae99-65f3e3e237ac.png)
 
 ## 💡 Desirable Functionalities
+- Built-in System to allow students to pay for ameneties
+- More customization when it comes to scheduling the calendar events
+- Offer more tools under the library feature, such as citation helpers
+- Allowing students to book/reserve rooms for studying
+- Offer video functionality to support virtual learning
 
 ## Links
 
