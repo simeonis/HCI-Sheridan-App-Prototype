@@ -16,10 +16,10 @@ School App for Sheridan College designed for students between the age of 18-30 a
 - Email
 - E-Library Access
 
-## Prototype #1
+## Prototype V2
 ![Prototype](https://user-images.githubusercontent.com/56325172/155904747-8c19ca6a-630a-4b28-9308-e2c7eb726465.png)
 
-## Navigation Prototype #1
+## Navigation Prototype V2
 ![Navigation_Prototype](https://user-images.githubusercontent.com/56325172/155904751-f4f68e83-d54b-43d8-ae99-65f3e3e237ac.png)
 
 ## 💡 Desirable Functionalities
